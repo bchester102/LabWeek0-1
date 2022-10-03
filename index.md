@@ -30,4 +30,4 @@ Now to talk a little bit about myself:
 I hope that I'll be able to learn a lot from this class and figure out what it means to be a software engineer. I will put my best foot forwarf and work my hardest to learn, going by a quote from one of my past professors:
 > "Start early, start often"
 
-*Back to top*
+[*Back to top*](#about-bradley-chester)
